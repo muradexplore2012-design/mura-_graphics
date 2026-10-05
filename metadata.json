@@ -1,0 +1,10 @@
+{
+  "name": "Murad Graphics — Digital Store Bangladesh",
+  "description": "Murad Graphics - Premium digital products: themes, software, bundles, subscriptions. Pay with bKash/Nagad, get instant Drive access after verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Digital product storefront",
+    "Firebase Authentication",
+    "Firestore orders, payments and purchases"
+  ]
+}
